@@ -44,4 +44,4 @@
 ```
 ```bash
 
-### :Report: Please Go through [Medtoureasy Report.pdf](https://github.com/MrShubham1267/MedTourEasy__ASL_Project/blob/main/Medtoureasy%20Report.pdf) for more info.
+### :Report: Please Go through [Medtoureasy Report.pdf](embed src= https://github.com/MrShubham1267/MedTourEasy__ASL_Project/blob/main/Medtoureasy%20Report.pdf type="application/pdf") for more info.
