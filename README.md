@@ -42,4 +42,3 @@
 ```bash
 ! pip install random
 ```
-```bash
