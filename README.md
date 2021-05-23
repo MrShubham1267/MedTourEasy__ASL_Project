@@ -8,8 +8,8 @@
 - In this project we have used **Alphapose** and **XGBOOST** for activity recognition.
 
 ## ⏳ Dataset
-- Download the dataset for custom training
-- https://drive.google.com/drive/folders/1CFxvuigTzbnRXUojFeCRozxjUbYiQ8RM?usp=sharing 
+- Download the dataset for Kaggle
+- https://www.kaggle.com/datamunge/sign-language-mnist 
 
 ## 🏽‍ Download Object Detection Model
 - Download the object detection model manually : **yolov3-spp.weights** file from following Drive Link
