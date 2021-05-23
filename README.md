@@ -21,30 +21,33 @@
 * seaborn
 * random
 * Tensorflow
+* Windows
 ## :gear: Setup
 1. Install Tensorflow :-
 ```bash
-$ pip install tensorflow
+! pip install tensorflow
 
 ```
 2. Install :-
 ```bash
-$ export PATH=/usr/local/cuda/bin/:$PATH
-
+! pip install numpy
+```
+```bash
+```bash
+! pip install pandas
+```
+```bash
+```bash
+! pip install matplotlib
+```
+```bash
+```bash
+! pip install seaborn
+```
+```bash
+```bash
+! pip install random
 ```
 ```bash
 
-```bash
-$ export PATH=/usr/local/cuda/bin/:$PATH
-
-```
-```bash
-
-```bash
-$ export PATH=/usr/local/cuda/bin/:$PATH
-
-```
-```bash
-
-
-### :Report: Please Go through [Pose_With_Action_HLD2.docx](https://github.com/MrShubham1267/MedTourEasy__ASL_Project/blob/main/Medtoureasy%20Report.pdf) for more info.
+### :Report: Please Go through [Medtoureasy Report.pdf](https://github.com/MrShubham1267/MedTourEasy__ASL_Project/blob/main/Medtoureasy%20Report.pdf) for more info.
